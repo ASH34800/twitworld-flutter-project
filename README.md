@@ -1,7 +1,7 @@
 # Twitworld
 
-Petit projet flutter  "réseau social" , le but étant de créé une aplication de partage de posts 
-se projet est toujours en amélioration 
+Petit projet flutter  "réseau social" , le but étant de créer une application de partage de posts 
+ce projet est toujours en amélioration 
 
 J'ai actuellement des problèmes avec la navigation dans l'application
 
